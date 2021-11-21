@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1708a673.chunk.css",
+    "main.js": "/static/js/main.be375eaf.chunk.js",
+    "main.js.map": "/static/js/main.be375eaf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.58d3f9e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.58d3f9e1.js.map",
+    "static/js/2.e8009be4.chunk.js": "/static/js/2.e8009be4.chunk.js",
+    "static/js/2.e8009be4.chunk.js.map": "/static/js/2.e8009be4.chunk.js.map",
+    "static/js/3.2d13aafb.chunk.js": "/static/js/3.2d13aafb.chunk.js",
+    "static/js/3.2d13aafb.chunk.js.map": "/static/js/3.2d13aafb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1708a673.chunk.css.map": "/static/css/main.1708a673.chunk.css.map",
+    "static/js/2.e8009be4.chunk.js.LICENSE.txt": "/static/js/2.e8009be4.chunk.js.LICENSE.txt",
+    "static/media/books.da7c06a2.png": "/static/media/books.da7c06a2.png",
+    "static/media/moon.62a52e63.svg": "/static/media/moon.62a52e63.svg",
+    "static/media/sun.87a05b1c.svg": "/static/media/sun.87a05b1c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58d3f9e1.js",
+    "static/js/2.e8009be4.chunk.js",
+    "static/css/main.1708a673.chunk.css",
+    "static/js/main.be375eaf.chunk.js"
+  ]
+}
