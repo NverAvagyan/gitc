@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gitc/static/css/main.cd5b509b.chunk.css",
-    "main.js": "/gitc/static/js/main.29602152.chunk.js",
-    "main.js.map": "/gitc/static/js/main.29602152.chunk.js.map",
-    "runtime-main.js": "/gitc/static/js/runtime-main.ddc4e30a.js",
-    "runtime-main.js.map": "/gitc/static/js/runtime-main.ddc4e30a.js.map",
-    "static/js/2.7775d2b0.chunk.js": "/gitc/static/js/2.7775d2b0.chunk.js",
-    "static/js/2.7775d2b0.chunk.js.map": "/gitc/static/js/2.7775d2b0.chunk.js.map",
-    "static/js/3.48ed7be0.chunk.js": "/gitc/static/js/3.48ed7be0.chunk.js",
-    "static/js/3.48ed7be0.chunk.js.map": "/gitc/static/js/3.48ed7be0.chunk.js.map",
+    "main.css": "/gitc/static/css/main.26e2a2e9.chunk.css",
+    "main.js": "/gitc/static/js/main.b99dfc25.chunk.js",
+    "main.js.map": "/gitc/static/js/main.b99dfc25.chunk.js.map",
+    "runtime-main.js": "/gitc/static/js/runtime-main.2bf3fd92.js",
+    "runtime-main.js.map": "/gitc/static/js/runtime-main.2bf3fd92.js.map",
+    "static/js/2.b70a3c17.chunk.js": "/gitc/static/js/2.b70a3c17.chunk.js",
+    "static/js/2.b70a3c17.chunk.js.map": "/gitc/static/js/2.b70a3c17.chunk.js.map",
+    "static/js/3.72b0150f.chunk.js": "/gitc/static/js/3.72b0150f.chunk.js",
+    "static/js/3.72b0150f.chunk.js.map": "/gitc/static/js/3.72b0150f.chunk.js.map",
     "index.html": "/gitc/index.html",
-    "static/css/main.cd5b509b.chunk.css.map": "/gitc/static/css/main.cd5b509b.chunk.css.map",
-    "static/js/2.7775d2b0.chunk.js.LICENSE.txt": "/gitc/static/js/2.7775d2b0.chunk.js.LICENSE.txt",
-    "static/media/books.da7c06a2.png": "/gitc/static/media/books.da7c06a2.png",
-    "static/media/moon.62a52e63.svg": "/gitc/static/media/moon.62a52e63.svg",
-    "static/media/sun.87a05b1c.svg": "/gitc/static/media/sun.87a05b1c.svg"
+    "static/css/main.26e2a2e9.chunk.css.map": "/gitc/static/css/main.26e2a2e9.chunk.css.map",
+    "static/js/2.b70a3c17.chunk.js.LICENSE.txt": "/gitc/static/js/2.b70a3c17.chunk.js.LICENSE.txt",
+    "static/media/avatar.3927588e.jpg": "/gitc/static/media/avatar.3927588e.jpg",
+    "static/media/bookCoverDefault.f32c92eb.jpg": "/gitc/static/media/bookCoverDefault.f32c92eb.jpg",
+    "static/media/books.da7c06a2.png": "/gitc/static/media/books.da7c06a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddc4e30a.js",
-    "static/js/2.7775d2b0.chunk.js",
-    "static/css/main.cd5b509b.chunk.css",
-    "static/js/main.29602152.chunk.js"
+    "static/js/runtime-main.2bf3fd92.js",
+    "static/js/2.b70a3c17.chunk.js",
+    "static/css/main.26e2a2e9.chunk.css",
+    "static/js/main.b99dfc25.chunk.js"
   ]
 }
